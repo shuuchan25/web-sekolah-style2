@@ -24,7 +24,7 @@ module.exports = {
         fot: "#FAFAFA",
       },
       screens: {
-        sm: "320px",
+        sm: "330px",
         // => @media (min-width: 370px) { ... }
 
         md: "768px",
