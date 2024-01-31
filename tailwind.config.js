@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./public/**/*.{html,js}"],
+  content: ["./**/*.{html,js}"],
   theme: {
     container: {
       center: true,
@@ -24,7 +24,7 @@ module.exports = {
         fot: "#FAFAFA",
       },
       screens: {
-        sm: "370px",
+        sm: "320px",
         // => @media (min-width: 370px) { ... }
 
         md: "768px",
